@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=900&lines=Cricket+ML+Intelligence+Platform;Prediction+%2B+Semantic+Search;End-to-End+AI%2FML+Pipeline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Cricket+ML+Intelligence+Platform;Web+Scraping+%E2%86%92+Prediction+%E2%86%92+Semantic+Search;End-to-End+AI+%2F+ML+Pipeline" alt="Typing SVG" />
 
 <br/>
 
@@ -9,11 +9,12 @@
 <br/>
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![Pandas](https://img.shields.io/badge/Pandas-Data-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-NLP-4CAF50?style=for-the-badge)](https://sbert.net)
+[![NLP](https://img.shields.io/badge/Sentence_Transformers-NLP-4CAF50?style=for-the-badge)](https://sbert.net)
 [![RAG](https://img.shields.io/badge/RAG-Vector_Search-9C27B0?style=for-the-badge)](https://github.com/MahakSoni05/cricket-ml-intelligence-platform)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
 <br/>
 
 [📌 About](#-about) · [🔧 Pipeline](#-pipeline) · [🚀 Quick Start](#-quick-start) · [📊 Results](#-results) · [🧠 How It Works](#-how-it-works) · [👩‍💻 Author](#-author)

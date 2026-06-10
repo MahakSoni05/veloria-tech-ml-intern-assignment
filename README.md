@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Cricket+ML+Intelligence+Platform;Web+Scraping+%E2%86%92+Prediction+%E2%86%92+Semantic+Search;End-to-End+AI+%2F+ML+Pipeline" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=1000&lines=Cricket+ML+Intelligence+Platform;Web+Scraping+%E2%86%92+Prediction+%E2%86%92+Semantic+Search;End-to-End+AI+%2F+ML+Pipeline" alt="Typing SVG" />
 
 <br/>
 
